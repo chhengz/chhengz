@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm VANG SOKCHHENG</h1>
-<h3 align="center">I'm a Full-Stack Developer from ...</h3>
+<h1 align="center">Hi 👋, I'm Jack</h1>
+<h3 align="center">I'm a Full-Stack Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sokchheng.site/](https://sokchheng.site/)
 
